@@ -1,7 +1,7 @@
 # myMoney App
 
 ## Deployed
-[myMoney](tutorial-demo-ed922.web.app)
+[myMoney](https://tutorial-demo-ed922.web.app/)
 
 
 
